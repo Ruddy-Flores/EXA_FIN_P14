@@ -1,0 +1,23 @@
+.borde{
+
+    position: absolute;
+    width: 305px;
+    height: 305px;
+    left: 389px;
+    top: 252px;
+    border-radius: 50%;
+    
+    background: #F1EAEA;
+    }
+.foto{
+/* Ellipse 1 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 398px;
+top: 261px;
+
+background: url('../assets/foto_elip.svg');
+}
+
